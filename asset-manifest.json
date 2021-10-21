@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://yusuke-kurihara-unicast.github.io/csb-r4vej/static/css/main.858e6e22.chunk.css",
+    "main.js": "https://yusuke-kurihara-unicast.github.io/csb-r4vej/static/js/main.81482e13.chunk.js",
+    "main.js.map": "https://yusuke-kurihara-unicast.github.io/csb-r4vej/static/js/main.81482e13.chunk.js.map",
+    "runtime-main.js": "https://yusuke-kurihara-unicast.github.io/csb-r4vej/static/js/runtime-main.ab73d6f0.js",
+    "runtime-main.js.map": "https://yusuke-kurihara-unicast.github.io/csb-r4vej/static/js/runtime-main.ab73d6f0.js.map",
+    "static/js/2.ef1bdcb6.chunk.js": "https://yusuke-kurihara-unicast.github.io/csb-r4vej/static/js/2.ef1bdcb6.chunk.js",
+    "static/js/2.ef1bdcb6.chunk.js.map": "https://yusuke-kurihara-unicast.github.io/csb-r4vej/static/js/2.ef1bdcb6.chunk.js.map",
+    "index.html": "https://yusuke-kurihara-unicast.github.io/csb-r4vej/index.html",
+    "static/css/main.858e6e22.chunk.css.map": "https://yusuke-kurihara-unicast.github.io/csb-r4vej/static/css/main.858e6e22.chunk.css.map",
+    "static/js/2.ef1bdcb6.chunk.js.LICENSE.txt": "https://yusuke-kurihara-unicast.github.io/csb-r4vej/static/js/2.ef1bdcb6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab73d6f0.js",
+    "static/js/2.ef1bdcb6.chunk.js",
+    "static/css/main.858e6e22.chunk.css",
+    "static/js/main.81482e13.chunk.js"
+  ]
+}
